@@ -1,0 +1,5 @@
+{
+  "name": "Audit Readiness Agent",
+  "description": "An intelligent dashboard for Hotel Seri Malaysia outlets to monitor and improve their halal audit readiness scores using a goal-based AI agent.",
+  "requestFramePermissions": []
+}
